@@ -1,0 +1,122 @@
+body
+{
+margin: 0px;
+padding: 0px;
+}
+.container1
+{
+	background-image: url(coffee.jpg);
+	height: 400px;
+	width: 100%;
+}
+.logo
+{
+ padding-top: 100px;
+ padding-bottom: 20px;
+ padding-left:520px;
+ padding-right: 50px;
+ height: 500px;
+ width: 300px;
+}
+img
+{
+	height: 150px;
+	width: 141px;
+	padding-left: 25px;
+}
+.tex p
+{
+	color: gray;
+	font-size: 10px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif
+}
+.tex p::first-line
+{
+font-size: 30px;
+font-weight: bold;
+color: white;
+font-family:Arial, Helvetica, sans-serif
+
+}
+.link
+{
+	width:90%;
+	padding-left: 30px;
+	padding-right: 30px;
+	height:450px;
+}
+.link ul li
+{
+	display: inline;
+	padding: 5px;
+}
+ul li
+{
+text-decoration: none;
+color:block;
+}
+
+.link a
+{
+	padding: 4px;
+	text-decoration: none;
+	color: gray;Arial, Helvetica, sans-serif
+}
+a:hover
+{
+	background-color: #C0C0C0;
+	color: white;
+}
+.tex
+{
+	padding-top: 5px;
+	padding-left: 10px;
+}
+.colmn1
+{
+	width: 28%;
+	height:400px;
+	float: left;
+	padding-left: 45px;
+
+}
+.hh
+{
+	font-size: 20px;
+	color: block;
+	font-weight: bold;
+	font-family: arial;
+}
+.def
+{
+	color: gray;
+	line-height: 25px;
+	font-family:Arial, Helvetica, sans-serif
+}
+.colmn2
+{
+	padding-left: 50px;
+	width: 28%;
+	height:400px;
+	float: left;
+
+}
+.colmn3
+{
+	padding-left: 50px;
+	width: 28%;
+	height:400px;
+	float: left;
+
+}
+footer
+{
+	width: 85%;
+	height: 100px;
+	border-top: 1px solid gray;
+	margin-left: 80px;
+	margin-right: 150px;
+	position: relative;
+	color: gray;
+}
